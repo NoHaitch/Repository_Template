@@ -213,7 +213,7 @@ The code in this project is licensed under MIT license.
 
 <!-- SPECIAL THANKS AND/OR CREDITS -->
 ## Special Thanks
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template) by othneildrew
+- [Repository_Template](https://github.com/NoHaitch/Repository_Template/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,5 +223,5 @@ The code in this project is licensed under MIT license.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-url]: https://github.com/NoHaitch/Repository_Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow
 [license-url]: https://github.com/NoHaitch/Repository_Template/blob/main/LICENSE
